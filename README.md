@@ -6,3 +6,4 @@ cambio local
 
 Una vez max
 
+C2
